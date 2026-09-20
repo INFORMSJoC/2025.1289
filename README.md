@@ -32,7 +32,7 @@ BibTeX for this repository snapshot:
   year = {2026},
   doi = {10.1287/ijoc.2025.1289.cd},
   url = {https://github.com/INFORMSJoC/2025.1289},
-  note = {Available for download at https://github.com/INFORMSJoC/xxxx.xxxx},
+  note = {Available for download at https://github.com/INFORMSJoC/2025.1289},
 }
 ```
 
