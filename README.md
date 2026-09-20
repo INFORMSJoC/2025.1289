@@ -13,7 +13,7 @@ To cite the contents of this repository, please cite both the paper and this rep
 Paper DOI:
 
 ```text
-https://doi.org/xxx.xxxx/ijoc.xxxx.xxxx
+https://doi.org/10.1287/ijoc.2025.1289
 ```
 
 Code repository DOI:
